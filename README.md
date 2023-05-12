@@ -1,3 +1,19 @@
+login 
+Email - valid@email.com
+password - ValidPassword1
+
+Node Version - v16.10.0
+
+Not Completed
+a. Edit
+b. Undo
+c. Active list
+d. Filtered
+e. Sorting
+f. ALL Clear
+g. Action Menu
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
